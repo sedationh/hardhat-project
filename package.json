@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "hardhat ignition deploy ./ignition/modules/Lock.js --network localhost"
+    "test": "hardhat test test/Shipping.js",
+    "deploy": "hardhat ignition deploy ./ignition/modules/Shipping.js --network localhost"
   },
   "keywords": [],
   "author": "",
