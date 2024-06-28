@@ -1,3 +1,6 @@
+![image](https://github.com/sedationh/hardhat-project/assets/56129212/5e5cd760-8de5-43cb-bc92-31b73af31833)
+
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
